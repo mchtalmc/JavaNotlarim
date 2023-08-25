@@ -21,8 +21,10 @@ public class StaticNonStaticBlocks01 {
     //Asagıdaki gibi "static" ler bir variable' a deger atamak ıcın kod yazmanız gerekirse "static block" kullanınız
     public static double price;
 
+
     public static void main(String[] args) {
         System.out.println("Hey I am a main method");
+        System.out.println("Hey I am a MAIN method");
 
     }
 
